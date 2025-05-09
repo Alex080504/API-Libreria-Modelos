@@ -1,0 +1,12 @@
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\bin\Debug\net8.0\Libreria.API.Consumer.deps.json
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\bin\Debug\net8.0\Libreria.API.Consumer.dll
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\bin\Debug\net8.0\Libreria.API.Consumer.pdb
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.AssemblyInfo.cs
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.dll
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\refint\Libreria.API.Consumer.dll
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\Libreria.API.Consumer.pdb
+C:\Users\ALEXANDER\Documents\proyecto api\Libreria.API.Consumer\obj\Debug\net8.0\ref\Libreria.API.Consumer.dll
